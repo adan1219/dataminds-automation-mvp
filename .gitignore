@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+
+.env
+
+__pycache__/
+*.pyc
+
+*.log
+*.tmp
+
+*.mp4
+*.zip
+
+.DS_Store
+Thumbs.db
